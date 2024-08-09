@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @NandaKumarRoy
+# 👋 Hi, I’m @NandaKumar
 
 - 👀 I’m interested in UI/UX design, front-end development, and exploring emerging web technologies.
 - 🌱 I’m currently learning advanced React techniques and 3D design for web applications.
